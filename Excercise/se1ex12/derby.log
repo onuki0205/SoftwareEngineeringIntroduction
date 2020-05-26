@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon May 25 23:14:32 JST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0172-4c2f-5c53-000007a51e38 
+on database directory /Users/onuki/Documents/GitHub/SoftwareEngineeringIntroduction/Excercise/se1ex12/SE1ex12DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/onuki/Documents/GitHub/SoftwareEngineeringIntroduction/Excercise/se1ex12/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.1+7
+user.dir=/Users/onuki/Documents/GitHub/SoftwareEngineeringIntroduction/Excercise/se1ex12
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 25 23:14:32 JST 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Mon May 25 23:14:32 JST 2020:
+Shutting down instance a816c00e-0172-4c2f-5c53-000007a51e38 on database directory /Users/onuki/Documents/GitHub/SoftwareEngineeringIntroduction/Excercise/se1ex12/SE1ex12DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+----------------------------------------------------------------
